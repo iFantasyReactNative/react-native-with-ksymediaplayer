@@ -1,3 +1,5 @@
 rootProject.name = 'KSYVIDEO'
+include ':react-native-ksyvideo'
+project(':react-native-ksyvideo').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-ksyvideo/android')
 
 include ':app'
