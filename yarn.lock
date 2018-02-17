@@ -3593,6 +3593,10 @@ react-devtools-core@3.0.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-ksyvideo@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-ksyvideo/-/react-native-ksyvideo-1.1.0.tgz#691feb84babf360886e87f05ef311f0caf384ba8"
+
 react-native@0.52.2:
   version "0.52.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.52.2.tgz#1ae9a4c4441bd6e54a8ffc8aae4ac2b5c7cccd68"
